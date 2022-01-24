@@ -1,0 +1,7 @@
+
+
+********* este gerenciador funciona com o conector/j versao 5.x.x (disponivel na lib)
+
+********* usa a lib de campo de texto versao 2.0
+
+********* melhorias nos dialogos de erro com usuario.

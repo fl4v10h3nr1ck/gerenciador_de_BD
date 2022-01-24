@@ -1,0 +1,3 @@
+
+
+********* este gerenciador funciona com o conector/j versao 3.x.x (disponivel na lib)
